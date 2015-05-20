@@ -1,7 +1,1 @@
 abcde
-fghijk
-lmnop
-mmmm
-nnn
-q
-hello
