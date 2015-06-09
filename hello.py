@@ -1,3 +1,4 @@
 print 'Hello World'
 
-new lines maybe
+def hello():
+    print 'hello'
